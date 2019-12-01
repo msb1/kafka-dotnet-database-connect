@@ -1,0 +1,11 @@
+C:\Users\Barnwaldo\Documents\Visual Studio 2019\Repos\KafkaPostgresEx3\KafkaPostgresEx3\bin\Debug\netcoreapp2.1\KafkaPostgresEx3.deps.json
+C:\Users\Barnwaldo\Documents\Visual Studio 2019\Repos\KafkaPostgresEx3\KafkaPostgresEx3\bin\Debug\netcoreapp2.1\KafkaPostgresEx3.runtimeconfig.json
+C:\Users\Barnwaldo\Documents\Visual Studio 2019\Repos\KafkaPostgresEx3\KafkaPostgresEx3\bin\Debug\netcoreapp2.1\KafkaPostgresEx3.runtimeconfig.dev.json
+C:\Users\Barnwaldo\Documents\Visual Studio 2019\Repos\KafkaPostgresEx3\KafkaPostgresEx3\bin\Debug\netcoreapp2.1\KafkaPostgresEx3.dll
+C:\Users\Barnwaldo\Documents\Visual Studio 2019\Repos\KafkaPostgresEx3\KafkaPostgresEx3\obj\Debug\netcoreapp2.1\KafkaPostgresEx3.csprojAssemblyReference.cache
+C:\Users\Barnwaldo\Documents\Visual Studio 2019\Repos\KafkaPostgresEx3\KafkaPostgresEx3\obj\Debug\netcoreapp2.1\KafkaPostgresEx3.csproj.CoreCompileInputs.cache
+C:\Users\Barnwaldo\Documents\Visual Studio 2019\Repos\KafkaPostgresEx3\KafkaPostgresEx3\obj\Debug\netcoreapp2.1\KafkaPostgresEx3.AssemblyInfoInputs.cache
+C:\Users\Barnwaldo\Documents\Visual Studio 2019\Repos\KafkaPostgresEx3\KafkaPostgresEx3\obj\Debug\netcoreapp2.1\KafkaPostgresEx3.AssemblyInfo.cs
+C:\Users\Barnwaldo\Documents\Visual Studio 2019\Repos\KafkaPostgresEx3\KafkaPostgresEx3\bin\Debug\netcoreapp2.1\KafkaPostgresEx3.pdb
+C:\Users\Barnwaldo\Documents\Visual Studio 2019\Repos\KafkaPostgresEx3\KafkaPostgresEx3\obj\Debug\netcoreapp2.1\KafkaPostgresEx3.dll
+C:\Users\Barnwaldo\Documents\Visual Studio 2019\Repos\KafkaPostgresEx3\KafkaPostgresEx3\obj\Debug\netcoreapp2.1\KafkaPostgresEx3.pdb
